@@ -16,4 +16,4 @@ Features
 .Clone the repository
 .Add your sales_data.csv file to the project folder
 .Run the analysis script or notebook
-.Review the output and visualizations for insights
+ .Review the output and visualizations for insights
